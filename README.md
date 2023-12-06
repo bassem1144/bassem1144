@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/omerulanuluu/">
+  <a href="https://www.linkedin.com/in/bassem-ismail-767563237/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <p/>
@@ -28,7 +28,7 @@
 
   - :zap: When I'm not programming, I love hanging out with my loved ones, watching movies, playing chess, going for a walk, or ice skating. I also have a huge passion for trying out different foods.
 
-  - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Bassem-Ismail-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bassem-ismail-767563237/)
+  - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-BassemIsmail-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bassem-ismail-767563237/)
   
 ---
 
