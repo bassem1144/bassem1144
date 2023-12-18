@@ -20,13 +20,13 @@
 
 ### :man_technologist: About Me :
   
-  I am a student at Bit Academy <img src="https://media.giphy.com/media/F73KLZL9eAfDcDQFAt/giphy.gif" width="40"> from Amsterdam.
+  I am a student at Bit Academy from Amsterdam.
   
   - :telescope: Beyond excited about becoming a Full-Stack Developer and build super engaging and interactive web pages.
 
   - :seedling: I am currently into learning JavaScript, React and Tailwind.
 
-  - :zap: When I'm not programming, I love hanging out with my loved ones, watching movies, playing chess, going for a walk, or ice skating. I also have a huge passion for trying out different foods.
+  - :zap: When I'm not programming, I love gaming, watching football, hitting the gym, hanging out with my friends.
 
   - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-BassemIsmail-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bassem-ismail-767563237/)
   
