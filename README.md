@@ -10,7 +10,7 @@
   </a>
 <p/>
 
-<h2 align="center"> Hi there 👋 <br/> My name is Bassem! Nice to meet you 😊🤝 <h2>
+<h2 align="center"> Hi there 👋 <br/> My name is Bassem! <h2>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
