@@ -28,7 +28,10 @@
 
   - :zap: When I'm not programming, I love gaming, watching football, hitting the gym, hanging out with my friends.
 
-  - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-BassemIsmail-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bassem-ismail-767563237/)
+- :mailbox: **How to reach me:**
+  - [![Linkedin Badge](https://img.shields.io/badge/-Bassem%20Ismail-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bassem-ismail-767563237/)
+  - [![Email Badge](https://img.shields.io/badge/-📧bassemismail79@gmail.com-blue?style=flat&logoColor=white)](mailto:bassemismail79@gmail.com)
+
   
 ---
 
