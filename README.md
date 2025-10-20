@@ -24,7 +24,7 @@
   
   - :telescope: Beyond excited about becoming a Full-Stack Developer and build super engaging and interactive web pages.
 
-  - :seedling: I am currently into learning Laravel, Java and Tailwind.
+  - :seedling: I am currently focused on learning Laravel, SpringBoot and Vue.js.
 
   - :zap: When I'm not programming, I love gaming, watching football, hitting the gym, hanging out with my friends.
 
