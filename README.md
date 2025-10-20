@@ -20,7 +20,7 @@
 
 ### :man_technologist: About Me :
   
-  I am a student at Bit Academy from Amsterdam.
+  I am a Software Engineering student at Amsterdam University of Applied Sciences.
   
   - :telescope: Beyond excited about becoming a Full-Stack Developer and build super engaging and interactive web pages.
 
